@@ -1,6 +1,5 @@
 bpg:
   config:
-    bpgenc:      '/usr/local/bin/bpgenc' # bpgenc binary
     quantizer:   28                      # 0-51
     chroma:      420                     # 420, 422, 444
     color_space: 'ycbcr'                 # ycbcr, rgb, ycgco
