@@ -1,3 +1,6 @@
+[![Gem Version](https://badge.fury.io/rb/bpg.svg)](http://badge.fury.io/rb/bpg) 
+[![Dependency Status](https://gemnasium.com/tbraun89/bpg.svg)](https://gemnasium.com/tbraun89/bpg)
+
 # BPG Image format for Ruby
 
 _This is a development version and not for production environments!_
