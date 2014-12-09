@@ -1,8 +1,12 @@
 # BPG Image format for Ruby
 
+_This is a development version and not for production environments!_
+
 This gem can load JPEG images and return them in BPG format.
 
-[Here](http://bellard.org/bpg/) you can find more information about the image format.
+For this version of the Gem go to [http://bellard.org/bpg/](http://bellard.org/bpg/)
+and install the library on your system. In an other release I want to include the
+library as an native extension.
 
 ## Installation
 
@@ -20,7 +24,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+TODO
 
 ## Contributing
 
