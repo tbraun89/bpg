@@ -8,5 +8,11 @@ module Bpg
 
     def self.encode(input_file, params = {})
     end
+
+  private
+
+    def encode_data(binary_input)
+
+    end
   end
 end

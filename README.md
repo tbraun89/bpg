@@ -5,13 +5,16 @@
 
 _This is a development version and not for production environments!_
 
-This gem can load JPEG images and return them in BPG format.
-
-For this version of the Gem go to [http://bellard.org/bpg/](http://bellard.org/bpg/)
-and install the library on your system. In an other release I want to include the
-library as an native extension.
+This gem can convert JPEG and PNG images to BPG image format.
 
 ## Installation
+
+### System dependencies
+
+* avutil
+* avcodec
+
+### Gem
 
 Add this line to your application's Gemfile:
 
