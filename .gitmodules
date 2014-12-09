@@ -1,3 +1,0 @@
-[submodule "ext/bpg/lib"]
-	path = ext/bpg/lib
-	url = https://github.com/thomas-huet/libbpg
